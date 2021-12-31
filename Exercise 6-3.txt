@@ -1,0 +1,3 @@
+https://github.com/ghassemiali/Exercise-6-2.git
+
+I only change the truncatechars to truncatewords.
